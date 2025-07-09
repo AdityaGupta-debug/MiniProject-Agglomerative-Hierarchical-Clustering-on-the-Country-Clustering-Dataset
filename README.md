@@ -42,12 +42,4 @@ The dataset contains socio-economic indicators for 167 countries. Each row repre
 - Clustering revealed meaningful groupings of countries with similar development indicators.
 - Final clusters were visualized using PCA-reduced 2D plots.
 
----
 
-## 📌 How to Run
-
-1. Clone this repository
-2. Download the dataset from [here](https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data)
-3. Install required packages:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn scipy
