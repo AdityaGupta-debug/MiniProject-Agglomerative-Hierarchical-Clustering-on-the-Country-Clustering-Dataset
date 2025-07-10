@@ -1,6 +1,6 @@
 # 🌍 Agglomerative Hierarchical Clustering on Country Data
 
-This project demonstrates how to apply **Agglomerative Hierarchical Clustering** to group countries based on their socio-economic indicators using the [Country Clustering Dataset](https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data). The goal is to uncover hidden patterns and clusters among countries using unsupervised learning and visualize them in 2D space.
+This project demonstrates how to apply **Agglomerative Hierarchical Clustering** to group countries based on their socio-economic indicators using the [Country Clustering Dataset](https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data). The goal is to uncover hidden patterns and clusters among countries using unsupervised learning and visualize them in the 2D space.
 
 ---
 
