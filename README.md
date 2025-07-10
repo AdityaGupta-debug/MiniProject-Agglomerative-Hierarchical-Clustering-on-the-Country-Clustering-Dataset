@@ -9,7 +9,7 @@ This project demonstrates how to apply **Agglomerative Hierarchical Clustering**
 The dataset contains socio-economic indicators for 167 countries. Each row represents a country, and the features include various normalized indicators such as health, income, and imports.
 
 ### 🔍 Features:
-- `child_mortality` – Deaths of children under 5 years per 1000 live births  
+- `child_mortality` – Deaths of children under 5 years per 1000 live births
 - `exports` – Exports of goods and services (% of GDP)  
 - `health` – Health expenditure (% of GDP)  
 - `imports` – Imports of goods and services (% of GDP)  
